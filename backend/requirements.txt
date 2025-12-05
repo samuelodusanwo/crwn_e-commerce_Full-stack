@@ -7,3 +7,5 @@ pyJWT
 pytz
 python-dotenv
 PyMySQL
+mysqlclient
+gunicorn
